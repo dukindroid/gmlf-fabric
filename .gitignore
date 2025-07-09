@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# docs directory - ignore all files except the rar archive
+/docs/*
+!/docs/docs.rar
